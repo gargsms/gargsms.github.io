@@ -1,0 +1,3 @@
+User-agent: *
+Sitemap: http://gargsms.github.io/sitemap.xml
+Disallow: /ghost/
